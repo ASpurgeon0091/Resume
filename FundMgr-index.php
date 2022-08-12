@@ -1,3 +1,7 @@
+/// This project was written nearly 10 years ago for a basic investment fund management platform. 
+///  I am aware some changes would need to be made to be compliant with the most recent version of PHP
+
+
 <?php
 
 ini_set('display_errors',0);
