@@ -1,5 +1,7 @@
-/// This project was written nearly 10 years ago for a basic investment fund management platform. 
+/// This project was written nearly 10 years ago entirely myself for a basic investment fund management platform. 
 ///  I am aware some changes would need to be made to be compliant with the most recent version of PHP
+///  Structuring the entire software in one file was to better optimize the encryption use of the Zend platform as this was intended for distribution.
+///  fundmgr-install.php would install the software on the platform and make sure all correct permission were set.
 
 
 <?php
