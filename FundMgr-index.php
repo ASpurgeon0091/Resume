@@ -2,6 +2,7 @@
 ///  I am aware some changes would need to be made to be compliant with the most recent version of PHP
 ///  Structuring the entire software in one file was to better optimize the encryption use of the Zend platform as this was intended for distribution.
 ///  fundmgr-install.php would install the software on the platform and make sure all correct permission were set.
+/// I have worked on many projects since this one and my knowledge and programming abilities have increased since then. 
 
 
 <?php
